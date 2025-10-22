@@ -1,0 +1,9 @@
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/KompGeom.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/edit_cache.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/rebuild_cache.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/list_install_components.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/install.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/install/local.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/install/strip.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/KompGeom_autogen_timestamp_deps.dir
+/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/KompGeom_autogen.dir
