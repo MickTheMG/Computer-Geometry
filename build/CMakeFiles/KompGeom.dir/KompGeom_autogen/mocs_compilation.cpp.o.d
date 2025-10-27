@@ -1,7 +1,7 @@
 CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.o: \
   /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/mocs_compilation.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/UVLADIE3JM/moc_MainWindow.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/UVLADIE3JM/../../../src/MainWindow.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/R3WADQZVW2/moc_MainWindow.cpp \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/R3WADQZVW2/../../../src/qt/MainWindow.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \
@@ -975,8 +975,8 @@ CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.o: \
   /opt/homebrew/include/QtCore/qtmocconstants.h \
   /opt/homebrew/include/QtCore/q20algorithm.h \
   /opt/homebrew/include/QtCore/q23type_traits.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/moc_Task01Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/Task01Widget.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/NATLJWB2PP/moc_Task03Widget.cpp \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/NATLJWB2PP/../../../src/qt/widgets/Task03Widget.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QWidget \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QLabel \
@@ -986,25 +986,15 @@ CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.o: \
   /opt/homebrew/include/QtCore/qiodevice.h \
   /opt/homebrew/include/QtGui/qtextdocument.h \
   /opt/homebrew/include/QtCore/qurl.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QPushButton \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /opt/homebrew/include/QtWidgets/qabstractbutton.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QCheckBox \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qcheckbox.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QLCDNumber \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qlcdnumber.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/../common/Geometry.h \
-  /opt/homebrew/include/QtCore/QPointF \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QLineEdit \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qlineedit.h \
   /opt/homebrew/include/QtGui/qtextcursor.h \
   /opt/homebrew/include/QtGui/qtextformat.h \
   /opt/homebrew/include/QtGui/qpen.h \
   /opt/homebrew/include/QtGui/qtextoption.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/moc_Task02Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/Task02Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/moc_Task03Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/Task03Widget.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QLineEdit \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qlineedit.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QPushButton \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /opt/homebrew/include/QtWidgets/qabstractbutton.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QHBoxLayout \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qboxlayout.h \
   /opt/homebrew/include/QtWidgets/qlayout.h \
@@ -1012,8 +1002,10 @@ CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.o: \
   /opt/homebrew/include/QtWidgets/qboxlayout.h \
   /opt/homebrew/include/QtWidgets/qgridlayout.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QVBoxLayout \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/../common/BigDecimal.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/../common/BigInt.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QLCDNumber \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qlcdnumber.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/NATLJWB2PP/../../../src/qt/widgets/../../cpp/common/BigDecimal.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/NATLJWB2PP/../../../src/qt/widgets/../../cpp/common/BigInt.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__ostream/basic_ostream.h \
@@ -1029,24 +1021,29 @@ CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__fwd/stack.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/print \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/unistd.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/moc_Task04Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/Task04Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/moc_Task05Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/Task05Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/moc_Task06Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/RZ4CM6YYJ6/../../../src/widgets/Task06Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/moc_Task07to09Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/../../../src/widgets/tasks7_12/Task07to09Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/moc_Task10Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/../../../src/widgets/tasks7_12/Task10Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/moc_Task11Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/../../../src/widgets/tasks7_12/Task11Widget.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QDoubleSpinBox \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qspinbox.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/moc_Task07to09Widget.cpp \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/../../../src/qt/widgets/tasks7_12/Task07to09Widget.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QCheckBox \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qcheckbox.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QComboBox \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qcombobox.h \
+  /opt/homebrew/include/QtWidgets/qabstractitemdelegate.h \
+  /opt/homebrew/include/QtWidgets/qstyleoption.h \
+  /opt/homebrew/include/QtCore/qlocale.h \
   /opt/homebrew/include/QtWidgets/qabstractspinbox.h \
   /opt/homebrew/include/QtGui/qvalidator.h \
   /opt/homebrew/include/QtCore/qregularexpression.h \
-  /opt/homebrew/include/QtCore/qlocale.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/../../../src/widgets/tasks7_12/../../common/Geometry.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/moc_Task12Widget.cpp \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/OKEAV6WO7X/../../../src/widgets/tasks7_12/Task12Widget.h
+  /opt/homebrew/include/QtWidgets/qslider.h \
+  /opt/homebrew/include/QtWidgets/qabstractslider.h \
+  /opt/homebrew/include/QtWidgets/qstyle.h \
+  /opt/homebrew/include/QtWidgets/qtabbar.h \
+  /opt/homebrew/include/QtWidgets/qrubberband.h \
+  /opt/homebrew/include/QtCore/qabstractitemmodel.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/../../../src/qt/widgets/tasks7_12/../../../cpp/common/Geometry.h \
+  /opt/homebrew/include/QtCore/QPointF \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/moc_Task10Widget.cpp \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/../../../src/qt/widgets/tasks7_12/Task10Widget.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/moc_Task11Widget.cpp \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/../../../src/qt/widgets/tasks7_12/Task11Widget.h \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/moc_Task12Widget.cpp \
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/IKN6VZBCKU/../../../src/qt/widgets/tasks7_12/Task12Widget.h

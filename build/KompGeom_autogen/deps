@@ -746,35 +746,25 @@ KompGeom_autogen/timestamp: \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/3.31.2/CMakeCXXCompiler.cmake \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/3.31.2/CMakeSystem.cmake \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/build/KompGeom_autogen/moc_predefs.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/MainWindow.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/MainWindow.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigDecimal.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigDecimal.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigInt.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigInt.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/Geometry.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/Geometry.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/main.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task01Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task01Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task02Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task02Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task03Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task03Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task04Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task04Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task05Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task05Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task06Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task06Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task07to09Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task07to09Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task10Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task10Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task11Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task11Widget.h \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task12Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task12Widget.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigDecimal.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigDecimal.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigInt.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigInt.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/Geometry.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/Geometry.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/main.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/QPointF \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q17memory.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
@@ -783,6 +773,7 @@ KompGeom_autogen/timestamp: \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q20utility.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
@@ -938,7 +929,7 @@ KompGeom_autogen/timestamp: \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QCheckBox \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QDoubleSpinBox \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QComboBox \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QHBoxLayout \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QLCDNumber \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
@@ -949,9 +940,12 @@ KompGeom_autogen/timestamp: \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qcombobox.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
@@ -961,8 +955,12 @@ KompGeom_autogen/timestamp: \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlineedit.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qpushbutton.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qspinbox.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qslider.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qstyleoption.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \

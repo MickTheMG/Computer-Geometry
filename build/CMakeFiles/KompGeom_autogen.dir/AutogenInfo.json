@@ -402,87 +402,57 @@
 	"HEADERS" : 
 	[
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/MainWindow.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigDecimal.h",
 			"MU",
-			"UVLADIE3JM/moc_MainWindow.cpp",
+			"SV5IVYZISR/moc_BigDecimal.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigDecimal.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigInt.h",
 			"MU",
-			"2PZEZPHIBF/moc_BigDecimal.cpp",
+			"SV5IVYZISR/moc_BigInt.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigInt.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/Geometry.h",
 			"MU",
-			"2PZEZPHIBF/moc_BigInt.cpp",
+			"SV5IVYZISR/moc_Geometry.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/Geometry.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.h",
 			"MU",
-			"2PZEZPHIBF/moc_Geometry.cpp",
+			"R3WADQZVW2/moc_MainWindow.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task01Widget.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.h",
 			"MU",
-			"RZ4CM6YYJ6/moc_Task01Widget.cpp",
+			"NATLJWB2PP/moc_Task03Widget.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task02Widget.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.h",
 			"MU",
-			"RZ4CM6YYJ6/moc_Task02Widget.cpp",
+			"IKN6VZBCKU/moc_Task07to09Widget.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task03Widget.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.h",
 			"MU",
-			"RZ4CM6YYJ6/moc_Task03Widget.cpp",
+			"IKN6VZBCKU/moc_Task10Widget.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task04Widget.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.h",
 			"MU",
-			"RZ4CM6YYJ6/moc_Task04Widget.cpp",
+			"IKN6VZBCKU/moc_Task11Widget.cpp",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task05Widget.h",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.h",
 			"MU",
-			"RZ4CM6YYJ6/moc_Task05Widget.cpp",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task06Widget.h",
-			"MU",
-			"RZ4CM6YYJ6/moc_Task06Widget.cpp",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task07to09Widget.h",
-			"MU",
-			"OKEAV6WO7X/moc_Task07to09Widget.cpp",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task10Widget.h",
-			"MU",
-			"OKEAV6WO7X/moc_Task10Widget.cpp",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task11Widget.h",
-			"MU",
-			"OKEAV6WO7X/moc_Task11Widget.cpp",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task12Widget.h",
-			"MU",
-			"OKEAV6WO7X/moc_Task12Widget.cpp",
+			"IKN6VZBCKU/moc_Task12Widget.cpp",
 			null
 		]
 	],
@@ -499,6 +469,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp",
+		"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt",
 		"/opt/homebrew/lib/QtCore.framework/Headers",
 		"/opt/homebrew/lib/QtCore.framework",
 		"/opt/homebrew/share/qt/mkspecs/macx-clang",
@@ -536,7 +508,7 @@
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 1,
+	"PARALLEL" : 10,
 	"PARSE_CACHE_FILE" : "/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles/KompGeom_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/uic",
@@ -546,77 +518,52 @@
 	"SOURCES" : 
 	[
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/MainWindow.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigDecimal.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigDecimal.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/BigInt.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/BigInt.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/cpp/common/Geometry.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/common/Geometry.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/main.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task01Widget.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task02Widget.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task03Widget.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task04Widget.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task05Widget.cpp",
-			"MU",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task06Widget.cpp",
-			"MU",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task07to09Widget.cpp",
-			"MU",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task10Widget.cpp",
-			"MU",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task11Widget.cpp",
-			"MU",
-			null
-		],
-		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task12Widget.cpp",
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp",
 			"MU",
 			null
 		]

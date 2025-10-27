@@ -224,365 +224,245 @@ KompGeom_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.s
 .PHONY : KompGeom_autogen/mocs_compilation.cpp.s
 
-src/MainWindow.o: src/MainWindow.cpp.o
-.PHONY : src/MainWindow.o
+src/cpp/common/BigDecimal.o: src/cpp/common/BigDecimal.cpp.o
+.PHONY : src/cpp/common/BigDecimal.o
 
 # target to build an object file
-src/MainWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/MainWindow.cpp.o
-.PHONY : src/MainWindow.cpp.o
+src/cpp/common/BigDecimal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/BigDecimal.cpp.o
+.PHONY : src/cpp/common/BigDecimal.cpp.o
 
-src/MainWindow.i: src/MainWindow.cpp.i
-.PHONY : src/MainWindow.i
+src/cpp/common/BigDecimal.i: src/cpp/common/BigDecimal.cpp.i
+.PHONY : src/cpp/common/BigDecimal.i
 
 # target to preprocess a source file
-src/MainWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/MainWindow.cpp.i
-.PHONY : src/MainWindow.cpp.i
+src/cpp/common/BigDecimal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/BigDecimal.cpp.i
+.PHONY : src/cpp/common/BigDecimal.cpp.i
 
-src/MainWindow.s: src/MainWindow.cpp.s
-.PHONY : src/MainWindow.s
+src/cpp/common/BigDecimal.s: src/cpp/common/BigDecimal.cpp.s
+.PHONY : src/cpp/common/BigDecimal.s
 
 # target to generate assembly for a file
-src/MainWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/MainWindow.cpp.s
-.PHONY : src/MainWindow.cpp.s
+src/cpp/common/BigDecimal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/BigDecimal.cpp.s
+.PHONY : src/cpp/common/BigDecimal.cpp.s
 
-src/common/BigDecimal.o: src/common/BigDecimal.cpp.o
-.PHONY : src/common/BigDecimal.o
+src/cpp/common/BigInt.o: src/cpp/common/BigInt.cpp.o
+.PHONY : src/cpp/common/BigInt.o
 
 # target to build an object file
-src/common/BigDecimal.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/BigDecimal.cpp.o
-.PHONY : src/common/BigDecimal.cpp.o
+src/cpp/common/BigInt.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/BigInt.cpp.o
+.PHONY : src/cpp/common/BigInt.cpp.o
 
-src/common/BigDecimal.i: src/common/BigDecimal.cpp.i
-.PHONY : src/common/BigDecimal.i
+src/cpp/common/BigInt.i: src/cpp/common/BigInt.cpp.i
+.PHONY : src/cpp/common/BigInt.i
 
 # target to preprocess a source file
-src/common/BigDecimal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/BigDecimal.cpp.i
-.PHONY : src/common/BigDecimal.cpp.i
+src/cpp/common/BigInt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/BigInt.cpp.i
+.PHONY : src/cpp/common/BigInt.cpp.i
 
-src/common/BigDecimal.s: src/common/BigDecimal.cpp.s
-.PHONY : src/common/BigDecimal.s
+src/cpp/common/BigInt.s: src/cpp/common/BigInt.cpp.s
+.PHONY : src/cpp/common/BigInt.s
 
 # target to generate assembly for a file
-src/common/BigDecimal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/BigDecimal.cpp.s
-.PHONY : src/common/BigDecimal.cpp.s
+src/cpp/common/BigInt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/BigInt.cpp.s
+.PHONY : src/cpp/common/BigInt.cpp.s
 
-src/common/BigInt.o: src/common/BigInt.cpp.o
-.PHONY : src/common/BigInt.o
+src/cpp/common/Geometry.o: src/cpp/common/Geometry.cpp.o
+.PHONY : src/cpp/common/Geometry.o
 
 # target to build an object file
-src/common/BigInt.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/BigInt.cpp.o
-.PHONY : src/common/BigInt.cpp.o
+src/cpp/common/Geometry.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/Geometry.cpp.o
+.PHONY : src/cpp/common/Geometry.cpp.o
 
-src/common/BigInt.i: src/common/BigInt.cpp.i
-.PHONY : src/common/BigInt.i
+src/cpp/common/Geometry.i: src/cpp/common/Geometry.cpp.i
+.PHONY : src/cpp/common/Geometry.i
 
 # target to preprocess a source file
-src/common/BigInt.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/BigInt.cpp.i
-.PHONY : src/common/BigInt.cpp.i
+src/cpp/common/Geometry.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/Geometry.cpp.i
+.PHONY : src/cpp/common/Geometry.cpp.i
 
-src/common/BigInt.s: src/common/BigInt.cpp.s
-.PHONY : src/common/BigInt.s
+src/cpp/common/Geometry.s: src/cpp/common/Geometry.cpp.s
+.PHONY : src/cpp/common/Geometry.s
 
 # target to generate assembly for a file
-src/common/BigInt.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/BigInt.cpp.s
-.PHONY : src/common/BigInt.cpp.s
+src/cpp/common/Geometry.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/cpp/common/Geometry.cpp.s
+.PHONY : src/cpp/common/Geometry.cpp.s
 
-src/common/Geometry.o: src/common/Geometry.cpp.o
-.PHONY : src/common/Geometry.o
+src/qt/MainWindow.o: src/qt/MainWindow.cpp.o
+.PHONY : src/qt/MainWindow.o
 
 # target to build an object file
-src/common/Geometry.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/Geometry.cpp.o
-.PHONY : src/common/Geometry.cpp.o
+src/qt/MainWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.o
+.PHONY : src/qt/MainWindow.cpp.o
 
-src/common/Geometry.i: src/common/Geometry.cpp.i
-.PHONY : src/common/Geometry.i
+src/qt/MainWindow.i: src/qt/MainWindow.cpp.i
+.PHONY : src/qt/MainWindow.i
 
 # target to preprocess a source file
-src/common/Geometry.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/Geometry.cpp.i
-.PHONY : src/common/Geometry.cpp.i
+src/qt/MainWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.i
+.PHONY : src/qt/MainWindow.cpp.i
 
-src/common/Geometry.s: src/common/Geometry.cpp.s
-.PHONY : src/common/Geometry.s
+src/qt/MainWindow.s: src/qt/MainWindow.cpp.s
+.PHONY : src/qt/MainWindow.s
 
 # target to generate assembly for a file
-src/common/Geometry.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/common/Geometry.cpp.s
-.PHONY : src/common/Geometry.cpp.s
+src/qt/MainWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.s
+.PHONY : src/qt/MainWindow.cpp.s
 
-src/main.o: src/main.cpp.o
-.PHONY : src/main.o
+src/qt/main.o: src/qt/main.cpp.o
+.PHONY : src/qt/main.o
 
 # target to build an object file
-src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
+src/qt/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/main.cpp.o
+.PHONY : src/qt/main.cpp.o
 
-src/main.i: src/main.cpp.i
-.PHONY : src/main.i
+src/qt/main.i: src/qt/main.cpp.i
+.PHONY : src/qt/main.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+src/qt/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/main.cpp.i
+.PHONY : src/qt/main.cpp.i
 
-src/main.s: src/main.cpp.s
-.PHONY : src/main.s
+src/qt/main.s: src/qt/main.cpp.s
+.PHONY : src/qt/main.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+src/qt/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/main.cpp.s
+.PHONY : src/qt/main.cpp.s
 
-src/widgets/Task01Widget.o: src/widgets/Task01Widget.cpp.o
-.PHONY : src/widgets/Task01Widget.o
+src/qt/widgets/Task03Widget.o: src/qt/widgets/Task03Widget.cpp.o
+.PHONY : src/qt/widgets/Task03Widget.o
 
 # target to build an object file
-src/widgets/Task01Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task01Widget.cpp.o
-.PHONY : src/widgets/Task01Widget.cpp.o
+src/qt/widgets/Task03Widget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o
+.PHONY : src/qt/widgets/Task03Widget.cpp.o
 
-src/widgets/Task01Widget.i: src/widgets/Task01Widget.cpp.i
-.PHONY : src/widgets/Task01Widget.i
+src/qt/widgets/Task03Widget.i: src/qt/widgets/Task03Widget.cpp.i
+.PHONY : src/qt/widgets/Task03Widget.i
 
 # target to preprocess a source file
-src/widgets/Task01Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task01Widget.cpp.i
-.PHONY : src/widgets/Task01Widget.cpp.i
+src/qt/widgets/Task03Widget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.i
+.PHONY : src/qt/widgets/Task03Widget.cpp.i
 
-src/widgets/Task01Widget.s: src/widgets/Task01Widget.cpp.s
-.PHONY : src/widgets/Task01Widget.s
+src/qt/widgets/Task03Widget.s: src/qt/widgets/Task03Widget.cpp.s
+.PHONY : src/qt/widgets/Task03Widget.s
 
 # target to generate assembly for a file
-src/widgets/Task01Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task01Widget.cpp.s
-.PHONY : src/widgets/Task01Widget.cpp.s
+src/qt/widgets/Task03Widget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.s
+.PHONY : src/qt/widgets/Task03Widget.cpp.s
 
-src/widgets/Task02Widget.o: src/widgets/Task02Widget.cpp.o
-.PHONY : src/widgets/Task02Widget.o
+src/qt/widgets/tasks7_12/Task07to09Widget.o: src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task07to09Widget.o
 
 # target to build an object file
-src/widgets/Task02Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task02Widget.cpp.o
-.PHONY : src/widgets/Task02Widget.cpp.o
+src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o
 
-src/widgets/Task02Widget.i: src/widgets/Task02Widget.cpp.i
-.PHONY : src/widgets/Task02Widget.i
+src/qt/widgets/tasks7_12/Task07to09Widget.i: src/qt/widgets/tasks7_12/Task07to09Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task07to09Widget.i
 
 # target to preprocess a source file
-src/widgets/Task02Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task02Widget.cpp.i
-.PHONY : src/widgets/Task02Widget.cpp.i
+src/qt/widgets/tasks7_12/Task07to09Widget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task07to09Widget.cpp.i
 
-src/widgets/Task02Widget.s: src/widgets/Task02Widget.cpp.s
-.PHONY : src/widgets/Task02Widget.s
+src/qt/widgets/tasks7_12/Task07to09Widget.s: src/qt/widgets/tasks7_12/Task07to09Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task07to09Widget.s
 
 # target to generate assembly for a file
-src/widgets/Task02Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task02Widget.cpp.s
-.PHONY : src/widgets/Task02Widget.cpp.s
+src/qt/widgets/tasks7_12/Task07to09Widget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task07to09Widget.cpp.s
 
-src/widgets/Task03Widget.o: src/widgets/Task03Widget.cpp.o
-.PHONY : src/widgets/Task03Widget.o
+src/qt/widgets/tasks7_12/Task10Widget.o: src/qt/widgets/tasks7_12/Task10Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task10Widget.o
 
 # target to build an object file
-src/widgets/Task03Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task03Widget.cpp.o
-.PHONY : src/widgets/Task03Widget.cpp.o
+src/qt/widgets/tasks7_12/Task10Widget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task10Widget.cpp.o
 
-src/widgets/Task03Widget.i: src/widgets/Task03Widget.cpp.i
-.PHONY : src/widgets/Task03Widget.i
+src/qt/widgets/tasks7_12/Task10Widget.i: src/qt/widgets/tasks7_12/Task10Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task10Widget.i
 
 # target to preprocess a source file
-src/widgets/Task03Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task03Widget.cpp.i
-.PHONY : src/widgets/Task03Widget.cpp.i
+src/qt/widgets/tasks7_12/Task10Widget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task10Widget.cpp.i
 
-src/widgets/Task03Widget.s: src/widgets/Task03Widget.cpp.s
-.PHONY : src/widgets/Task03Widget.s
+src/qt/widgets/tasks7_12/Task10Widget.s: src/qt/widgets/tasks7_12/Task10Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task10Widget.s
 
 # target to generate assembly for a file
-src/widgets/Task03Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task03Widget.cpp.s
-.PHONY : src/widgets/Task03Widget.cpp.s
+src/qt/widgets/tasks7_12/Task10Widget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task10Widget.cpp.s
 
-src/widgets/Task04Widget.o: src/widgets/Task04Widget.cpp.o
-.PHONY : src/widgets/Task04Widget.o
+src/qt/widgets/tasks7_12/Task11Widget.o: src/qt/widgets/tasks7_12/Task11Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task11Widget.o
 
 # target to build an object file
-src/widgets/Task04Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task04Widget.cpp.o
-.PHONY : src/widgets/Task04Widget.cpp.o
+src/qt/widgets/tasks7_12/Task11Widget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task11Widget.cpp.o
 
-src/widgets/Task04Widget.i: src/widgets/Task04Widget.cpp.i
-.PHONY : src/widgets/Task04Widget.i
+src/qt/widgets/tasks7_12/Task11Widget.i: src/qt/widgets/tasks7_12/Task11Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task11Widget.i
 
 # target to preprocess a source file
-src/widgets/Task04Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task04Widget.cpp.i
-.PHONY : src/widgets/Task04Widget.cpp.i
+src/qt/widgets/tasks7_12/Task11Widget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task11Widget.cpp.i
 
-src/widgets/Task04Widget.s: src/widgets/Task04Widget.cpp.s
-.PHONY : src/widgets/Task04Widget.s
+src/qt/widgets/tasks7_12/Task11Widget.s: src/qt/widgets/tasks7_12/Task11Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task11Widget.s
 
 # target to generate assembly for a file
-src/widgets/Task04Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task04Widget.cpp.s
-.PHONY : src/widgets/Task04Widget.cpp.s
+src/qt/widgets/tasks7_12/Task11Widget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task11Widget.cpp.s
 
-src/widgets/Task05Widget.o: src/widgets/Task05Widget.cpp.o
-.PHONY : src/widgets/Task05Widget.o
+src/qt/widgets/tasks7_12/Task12Widget.o: src/qt/widgets/tasks7_12/Task12Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task12Widget.o
 
 # target to build an object file
-src/widgets/Task05Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task05Widget.cpp.o
-.PHONY : src/widgets/Task05Widget.cpp.o
+src/qt/widgets/tasks7_12/Task12Widget.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o
+.PHONY : src/qt/widgets/tasks7_12/Task12Widget.cpp.o
 
-src/widgets/Task05Widget.i: src/widgets/Task05Widget.cpp.i
-.PHONY : src/widgets/Task05Widget.i
-
-# target to preprocess a source file
-src/widgets/Task05Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task05Widget.cpp.i
-.PHONY : src/widgets/Task05Widget.cpp.i
-
-src/widgets/Task05Widget.s: src/widgets/Task05Widget.cpp.s
-.PHONY : src/widgets/Task05Widget.s
-
-# target to generate assembly for a file
-src/widgets/Task05Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task05Widget.cpp.s
-.PHONY : src/widgets/Task05Widget.cpp.s
-
-src/widgets/Task06Widget.o: src/widgets/Task06Widget.cpp.o
-.PHONY : src/widgets/Task06Widget.o
-
-# target to build an object file
-src/widgets/Task06Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task06Widget.cpp.o
-.PHONY : src/widgets/Task06Widget.cpp.o
-
-src/widgets/Task06Widget.i: src/widgets/Task06Widget.cpp.i
-.PHONY : src/widgets/Task06Widget.i
+src/qt/widgets/tasks7_12/Task12Widget.i: src/qt/widgets/tasks7_12/Task12Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task12Widget.i
 
 # target to preprocess a source file
-src/widgets/Task06Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task06Widget.cpp.i
-.PHONY : src/widgets/Task06Widget.cpp.i
+src/qt/widgets/tasks7_12/Task12Widget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.i
+.PHONY : src/qt/widgets/tasks7_12/Task12Widget.cpp.i
 
-src/widgets/Task06Widget.s: src/widgets/Task06Widget.cpp.s
-.PHONY : src/widgets/Task06Widget.s
-
-# target to generate assembly for a file
-src/widgets/Task06Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/Task06Widget.cpp.s
-.PHONY : src/widgets/Task06Widget.cpp.s
-
-src/widgets/tasks7_12/Task07to09Widget.o: src/widgets/tasks7_12/Task07to09Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task07to09Widget.o
-
-# target to build an object file
-src/widgets/tasks7_12/Task07to09Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task07to09Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task07to09Widget.cpp.o
-
-src/widgets/tasks7_12/Task07to09Widget.i: src/widgets/tasks7_12/Task07to09Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task07to09Widget.i
-
-# target to preprocess a source file
-src/widgets/tasks7_12/Task07to09Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task07to09Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task07to09Widget.cpp.i
-
-src/widgets/tasks7_12/Task07to09Widget.s: src/widgets/tasks7_12/Task07to09Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task07to09Widget.s
+src/qt/widgets/tasks7_12/Task12Widget.s: src/qt/widgets/tasks7_12/Task12Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task12Widget.s
 
 # target to generate assembly for a file
-src/widgets/tasks7_12/Task07to09Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task07to09Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task07to09Widget.cpp.s
-
-src/widgets/tasks7_12/Task10Widget.o: src/widgets/tasks7_12/Task10Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task10Widget.o
-
-# target to build an object file
-src/widgets/tasks7_12/Task10Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task10Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task10Widget.cpp.o
-
-src/widgets/tasks7_12/Task10Widget.i: src/widgets/tasks7_12/Task10Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task10Widget.i
-
-# target to preprocess a source file
-src/widgets/tasks7_12/Task10Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task10Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task10Widget.cpp.i
-
-src/widgets/tasks7_12/Task10Widget.s: src/widgets/tasks7_12/Task10Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task10Widget.s
-
-# target to generate assembly for a file
-src/widgets/tasks7_12/Task10Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task10Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task10Widget.cpp.s
-
-src/widgets/tasks7_12/Task11Widget.o: src/widgets/tasks7_12/Task11Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task11Widget.o
-
-# target to build an object file
-src/widgets/tasks7_12/Task11Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task11Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task11Widget.cpp.o
-
-src/widgets/tasks7_12/Task11Widget.i: src/widgets/tasks7_12/Task11Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task11Widget.i
-
-# target to preprocess a source file
-src/widgets/tasks7_12/Task11Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task11Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task11Widget.cpp.i
-
-src/widgets/tasks7_12/Task11Widget.s: src/widgets/tasks7_12/Task11Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task11Widget.s
-
-# target to generate assembly for a file
-src/widgets/tasks7_12/Task11Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task11Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task11Widget.cpp.s
-
-src/widgets/tasks7_12/Task12Widget.o: src/widgets/tasks7_12/Task12Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task12Widget.o
-
-# target to build an object file
-src/widgets/tasks7_12/Task12Widget.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task12Widget.cpp.o
-.PHONY : src/widgets/tasks7_12/Task12Widget.cpp.o
-
-src/widgets/tasks7_12/Task12Widget.i: src/widgets/tasks7_12/Task12Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task12Widget.i
-
-# target to preprocess a source file
-src/widgets/tasks7_12/Task12Widget.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task12Widget.cpp.i
-.PHONY : src/widgets/tasks7_12/Task12Widget.cpp.i
-
-src/widgets/tasks7_12/Task12Widget.s: src/widgets/tasks7_12/Task12Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task12Widget.s
-
-# target to generate assembly for a file
-src/widgets/tasks7_12/Task12Widget.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/widgets/tasks7_12/Task12Widget.cpp.s
-.PHONY : src/widgets/tasks7_12/Task12Widget.cpp.s
+src/qt/widgets/tasks7_12/Task12Widget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/KompGeom.dir/build.make CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.s
+.PHONY : src/qt/widgets/tasks7_12/Task12Widget.cpp.s
 
 # Help Target
 help:
@@ -602,51 +482,36 @@ help:
 	@echo "... KompGeom_autogen/mocs_compilation.o"
 	@echo "... KompGeom_autogen/mocs_compilation.i"
 	@echo "... KompGeom_autogen/mocs_compilation.s"
-	@echo "... src/MainWindow.o"
-	@echo "... src/MainWindow.i"
-	@echo "... src/MainWindow.s"
-	@echo "... src/common/BigDecimal.o"
-	@echo "... src/common/BigDecimal.i"
-	@echo "... src/common/BigDecimal.s"
-	@echo "... src/common/BigInt.o"
-	@echo "... src/common/BigInt.i"
-	@echo "... src/common/BigInt.s"
-	@echo "... src/common/Geometry.o"
-	@echo "... src/common/Geometry.i"
-	@echo "... src/common/Geometry.s"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
-	@echo "... src/widgets/Task01Widget.o"
-	@echo "... src/widgets/Task01Widget.i"
-	@echo "... src/widgets/Task01Widget.s"
-	@echo "... src/widgets/Task02Widget.o"
-	@echo "... src/widgets/Task02Widget.i"
-	@echo "... src/widgets/Task02Widget.s"
-	@echo "... src/widgets/Task03Widget.o"
-	@echo "... src/widgets/Task03Widget.i"
-	@echo "... src/widgets/Task03Widget.s"
-	@echo "... src/widgets/Task04Widget.o"
-	@echo "... src/widgets/Task04Widget.i"
-	@echo "... src/widgets/Task04Widget.s"
-	@echo "... src/widgets/Task05Widget.o"
-	@echo "... src/widgets/Task05Widget.i"
-	@echo "... src/widgets/Task05Widget.s"
-	@echo "... src/widgets/Task06Widget.o"
-	@echo "... src/widgets/Task06Widget.i"
-	@echo "... src/widgets/Task06Widget.s"
-	@echo "... src/widgets/tasks7_12/Task07to09Widget.o"
-	@echo "... src/widgets/tasks7_12/Task07to09Widget.i"
-	@echo "... src/widgets/tasks7_12/Task07to09Widget.s"
-	@echo "... src/widgets/tasks7_12/Task10Widget.o"
-	@echo "... src/widgets/tasks7_12/Task10Widget.i"
-	@echo "... src/widgets/tasks7_12/Task10Widget.s"
-	@echo "... src/widgets/tasks7_12/Task11Widget.o"
-	@echo "... src/widgets/tasks7_12/Task11Widget.i"
-	@echo "... src/widgets/tasks7_12/Task11Widget.s"
-	@echo "... src/widgets/tasks7_12/Task12Widget.o"
-	@echo "... src/widgets/tasks7_12/Task12Widget.i"
-	@echo "... src/widgets/tasks7_12/Task12Widget.s"
+	@echo "... src/cpp/common/BigDecimal.o"
+	@echo "... src/cpp/common/BigDecimal.i"
+	@echo "... src/cpp/common/BigDecimal.s"
+	@echo "... src/cpp/common/BigInt.o"
+	@echo "... src/cpp/common/BigInt.i"
+	@echo "... src/cpp/common/BigInt.s"
+	@echo "... src/cpp/common/Geometry.o"
+	@echo "... src/cpp/common/Geometry.i"
+	@echo "... src/cpp/common/Geometry.s"
+	@echo "... src/qt/MainWindow.o"
+	@echo "... src/qt/MainWindow.i"
+	@echo "... src/qt/MainWindow.s"
+	@echo "... src/qt/main.o"
+	@echo "... src/qt/main.i"
+	@echo "... src/qt/main.s"
+	@echo "... src/qt/widgets/Task03Widget.o"
+	@echo "... src/qt/widgets/Task03Widget.i"
+	@echo "... src/qt/widgets/Task03Widget.s"
+	@echo "... src/qt/widgets/tasks7_12/Task07to09Widget.o"
+	@echo "... src/qt/widgets/tasks7_12/Task07to09Widget.i"
+	@echo "... src/qt/widgets/tasks7_12/Task07to09Widget.s"
+	@echo "... src/qt/widgets/tasks7_12/Task10Widget.o"
+	@echo "... src/qt/widgets/tasks7_12/Task10Widget.i"
+	@echo "... src/qt/widgets/tasks7_12/Task10Widget.s"
+	@echo "... src/qt/widgets/tasks7_12/Task11Widget.o"
+	@echo "... src/qt/widgets/tasks7_12/Task11Widget.i"
+	@echo "... src/qt/widgets/tasks7_12/Task11Widget.s"
+	@echo "... src/qt/widgets/tasks7_12/Task12Widget.o"
+	@echo "... src/qt/widgets/tasks7_12/Task12Widget.i"
+	@echo "... src/qt/widgets/tasks7_12/Task12Widget.s"
 .PHONY : help
 
 

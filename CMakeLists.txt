@@ -6,41 +6,30 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(Qt6 REQUIRED COMPONENTS Widgets Gui)
 
-set(SRC
-  src/main.cpp
-  src/MainWindow.h
-  src/MainWindow.cpp
-  src/common/Geometry.h
-  src/common/Geometry.cpp
-  src/common/BigInt.h
-  src/common/BigInt.cpp
-  src/common/BigDecimal.h
-  src/common/BigDecimal.cpp
-  src/widgets/Task01Widget.h
-  src/widgets/Task01Widget.cpp
-  src/widgets/Task02Widget.h
-  src/widgets/Task02Widget.cpp
-  src/widgets/Task03Widget.h
-  src/widgets/Task03Widget.cpp
-  src/widgets/Task04Widget.h
-  src/widgets/Task04Widget.cpp
-  src/widgets/Task05Widget.h
-  src/widgets/Task05Widget.cpp
-  src/widgets/Task06Widget.h
-  src/widgets/Task06Widget.cpp
-  src/widgets/tasks7_12/Task07to09Widget.h
-  src/widgets/tasks7_12/Task07to09Widget.cpp
-  src/widgets/tasks7_12/Task10Widget.h
-  src/widgets/tasks7_12/Task10Widget.cpp
-  src/widgets/tasks7_12/Task11Widget.h
-  src/widgets/tasks7_12/Task11Widget.cpp
-  src/widgets/tasks7_12/Task12Widget.h
-  src/widgets/tasks7_12/Task12Widget.cpp
+set(CPP_DIR ${CMAKE_CURRENT_SOURCE_DIR}/src/cpp)
+set(QT_DIR  ${CMAKE_CURRENT_SOURCE_DIR}/src/qt)
+
+set(SRC_CPP
+  ${CPP_DIR}/common/BigInt.cpp
+  ${CPP_DIR}/common/BigDecimal.cpp
+  ${CPP_DIR}/common/Geometry.cpp
+)
+
+set(SRC_QT
+  ${QT_DIR}/main.cpp
+  ${QT_DIR}/MainWindow.cpp
+  ${QT_DIR}/widgets/Task03Widget.cpp
+  ${QT_DIR}/widgets/tasks7_12/Task07to09Widget.cpp
+  ${QT_DIR}/widgets/tasks7_12/Task10Widget.cpp
+  ${QT_DIR}/widgets/tasks7_12/Task11Widget.cpp
+  ${QT_DIR}/widgets/tasks7_12/Task12Widget.cpp
 )
 
 qt_standard_project_setup()
 
-qt_add_executable(KompGeom ${SRC})
+qt_add_executable(KompGeom ${SRC_CPP} ${SRC_QT})
+
+target_include_directories(KompGeom PRIVATE ${CPP_DIR} ${QT_DIR})
 
 target_link_libraries(KompGeom PRIVATE Qt6::Widgets Qt6::Gui)
 

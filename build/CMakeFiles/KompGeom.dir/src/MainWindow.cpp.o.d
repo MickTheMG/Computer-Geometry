@@ -1022,15 +1022,4 @@ CMakeFiles/KompGeom.dir/src/MainWindow.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/print \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/unistd.h \
   /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task05Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task06Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task07to09Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task10Widget.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task11Widget.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QDoubleSpinBox \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qspinbox.h \
-  /opt/homebrew/include/QtWidgets/qabstractspinbox.h \
-  /opt/homebrew/include/QtGui/qvalidator.h \
-  /opt/homebrew/include/QtCore/qregularexpression.h \
-  /opt/homebrew/include/QtCore/qlocale.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/../../common/Geometry.h \
-  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/tasks7_12/Task12Widget.h
+  /Users/am-hkong/Documents/coding/Uni/KompGeom/src/widgets/Task06Widget.h
