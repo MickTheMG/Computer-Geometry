@@ -994,6 +994,8 @@ CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o: \
   /opt/homebrew/include/QtWidgets/qtabwidget.h \
   /opt/homebrew/include/QtWidgets/qrubberband.h \
   /opt/homebrew/include/QtCore/qabstractitemmodel.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QButtonGroup \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qbuttongroup.h \
   /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/../../../cpp/common/Geometry.h \
   /opt/homebrew/include/QtCore/QPointF \
   /opt/homebrew/lib/QtGui.framework/Headers/QMouseEvent \
@@ -1026,10 +1028,14 @@ CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o: \
   /opt/homebrew/lib/QtGui.framework/Headers/qpainter.h \
   /opt/homebrew/include/QtGui/qtextoption.h \
   /opt/homebrew/include/QtGui/qpen.h \
+  /opt/homebrew/lib/QtGui.framework/Headers/QPainterPath \
+  /opt/homebrew/lib/QtGui.framework/Headers/qpainterpath.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QVBoxLayout \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qboxlayout.h \
   /opt/homebrew/include/QtWidgets/qlayout.h \
   /opt/homebrew/include/QtWidgets/qlayoutitem.h \
   /opt/homebrew/include/QtWidgets/qboxlayout.h \
   /opt/homebrew/include/QtWidgets/qgridlayout.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QHBoxLayout
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QHBoxLayout \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QGroupBox \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qgroupbox.h

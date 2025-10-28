@@ -14,8 +14,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.o.d"
   "CMakeFiles/KompGeom.dir/src/qt/main.cpp.o"
   "CMakeFiles/KompGeom.dir/src/qt/main.cpp.o.d"
-  "CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o"
-  "CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o.d"
   "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o"
   "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o.d"
   "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o"
@@ -24,6 +22,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o.d"
   "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o"
   "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o.d"
+  "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o"
+  "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o.d"
   "KompGeom"
   "KompGeom.pdb"
 )

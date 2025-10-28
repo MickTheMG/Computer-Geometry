@@ -889,6 +889,7 @@
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QButtonGroup \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QCheckBox \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QComboBox \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
@@ -898,6 +899,7 @@
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
+  /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qbuttongroup.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qcombobox.h \
   /opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \

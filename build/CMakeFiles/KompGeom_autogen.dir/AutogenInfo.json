@@ -426,12 +426,6 @@
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.h",
-			"MU",
-			"NATLJWB2PP/moc_Task03Widget.cpp",
-			null
-		],
-		[
 			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.h",
 			"MU",
 			"IKN6VZBCKU/moc_Task07to09Widget.cpp",
@@ -453,6 +447,12 @@
 			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.h",
 			"MU",
 			"IKN6VZBCKU/moc_Task12Widget.cpp",
+			null
+		],
+		[
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.h",
+			"MU",
+			"IKN6VZBCKU/moc_Task13Widget.cpp",
 			null
 		]
 	],
@@ -543,11 +543,6 @@
 			null
 		],
 		[
-			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp",
-			"MU",
-			null
-		],
-		[
 			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.cpp",
 			"MU",
 			null
@@ -564,6 +559,11 @@
 		],
 		[
 			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.cpp",
 			"MU",
 			null
 		]

@@ -4,6 +4,7 @@
 #include <QCheckBox>
 #include <QPushButton>
 #include <QComboBox>
+#include <QButtonGroup>
 #include <vector>
 #include <optional>
 #include "../../../cpp/common/Geometry.h"
@@ -39,6 +40,10 @@ private:
     QCheckBox* labelsBox = nullptr;
     QCheckBox* onlineBox = nullptr;
     QComboBox* editSetBox = nullptr;
+
+    enum class Op { Intersection, Union, DiffAB, DiffBA };
+    Op currentOp = Op::Intersection;
+    QButtonGroup* opButtons = nullptr;
 
     void recompute();
     void updateStatus();

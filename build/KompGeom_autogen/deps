@@ -260,7 +260,6 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/bit_reference.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/byte.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/complex.h \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/deque.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/format.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/fstream.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/functional.h \
@@ -270,9 +269,7 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory_resource.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/ostream.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/pair.h \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/queue.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/sstream.h \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/stack.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/streambuf.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string_view.h \
@@ -389,7 +386,6 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_reduce.h \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_valid.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/log2.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
@@ -468,7 +464,6 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_base_of.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_bounded_array.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_callable.h \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_char_like_type.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_class.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_compound.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_const.h \
@@ -576,7 +571,6 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno \
@@ -596,18 +590,14 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ctype.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cwchar \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cwctype \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/deque \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/errno.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/execution \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/format \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/initializer_list \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ios \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iosfwd \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iterator \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/limits \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/list \
@@ -620,12 +610,8 @@ KompGeom_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/new \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/numeric \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/queue \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ratio \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/set \
-	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stack \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdbool.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stddef.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdexcept \
@@ -755,8 +741,6 @@ KompGeom_autogen/timestamp: \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.cpp \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.h \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/main.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp \
-	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.h \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.cpp \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.h \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.cpp \
@@ -765,6 +749,8 @@ KompGeom_autogen/timestamp: \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.h \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp \
 	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.h \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.cpp \
+	/Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/QPointF \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q17memory.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
@@ -910,7 +896,6 @@ KompGeom_autogen/timestamp: \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qpen.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
@@ -918,41 +903,30 @@ KompGeom_autogen/timestamp: \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qregion.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtextcursor.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtextformat.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtextoption.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QButtonGroup \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QCheckBox \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QComboBox \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QHBoxLayout \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QLCDNumber \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QLineEdit \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QTabWidget \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
+	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qbuttongroup.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qcombobox.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlcdnumber.h \
-	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qlineedit.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qpushbutton.h \
 	/opt/homebrew/Cellar/qt/6.9.2/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \

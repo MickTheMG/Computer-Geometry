@@ -18,11 +18,11 @@ set(SRC_CPP
 set(SRC_QT
   ${QT_DIR}/main.cpp
   ${QT_DIR}/MainWindow.cpp
-  ${QT_DIR}/widgets/Task03Widget.cpp
   ${QT_DIR}/widgets/tasks7_12/Task07to09Widget.cpp
   ${QT_DIR}/widgets/tasks7_12/Task10Widget.cpp
   ${QT_DIR}/widgets/tasks7_12/Task11Widget.cpp
   ${QT_DIR}/widgets/tasks7_12/Task12Widget.cpp
+  ${QT_DIR}/widgets/tasks7_12/Task13Widget.cpp
 )
 
 qt_standard_project_setup()

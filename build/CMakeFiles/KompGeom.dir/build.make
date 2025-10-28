@@ -156,24 +156,10 @@ CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/MainWindow.cpp -o CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.s
 
-CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o: CMakeFiles/KompGeom.dir/flags.make
-CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o: /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp
-CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o: CMakeFiles/KompGeom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o -MF CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o.d -o CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o -c /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp
-
-CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp > CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.i
-
-CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/Task03Widget.cpp -o CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.s
-
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o: CMakeFiles/KompGeom.dir/flags.make
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o: /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.cpp
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o: CMakeFiles/KompGeom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o -MF CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o.d -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o -c /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task07to09Widget.cpp
 
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.i: cmake_force
@@ -187,7 +173,7 @@ CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.s: cmake_f
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o: CMakeFiles/KompGeom.dir/flags.make
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o: /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.cpp
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o: CMakeFiles/KompGeom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o -MF CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o.d -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o -c /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task10Widget.cpp
 
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.i: cmake_force
@@ -201,7 +187,7 @@ CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.s: cmake_force
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o: CMakeFiles/KompGeom.dir/flags.make
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o: /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.cpp
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o: CMakeFiles/KompGeom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o -MF CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o.d -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o -c /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task11Widget.cpp
 
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.i: cmake_force
@@ -215,7 +201,7 @@ CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.s: cmake_force
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o: CMakeFiles/KompGeom.dir/flags.make
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o: /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o: CMakeFiles/KompGeom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o -MF CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o.d -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o -c /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp
 
 CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.i: cmake_force
@@ -226,6 +212,20 @@ CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task12Widget.cpp -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.s
 
+CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o: CMakeFiles/KompGeom.dir/flags.make
+CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o: /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.cpp
+CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o: CMakeFiles/KompGeom.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/am-hkong/Documents/coding/Uni/KompGeom/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o -MF CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o.d -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o -c /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.cpp
+
+CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.cpp > CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.i
+
+CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/am-hkong/Documents/coding/Uni/KompGeom/src/qt/widgets/tasks7_12/Task13Widget.cpp -o CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.s
+
 # Object files for target KompGeom
 KompGeom_OBJECTS = \
 "CMakeFiles/KompGeom.dir/KompGeom_autogen/mocs_compilation.cpp.o" \
@@ -234,11 +234,11 @@ KompGeom_OBJECTS = \
 "CMakeFiles/KompGeom.dir/src/cpp/common/Geometry.cpp.o" \
 "CMakeFiles/KompGeom.dir/src/qt/main.cpp.o" \
 "CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.o" \
-"CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o" \
 "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o" \
 "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o" \
 "CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o" \
-"CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o"
+"CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o" \
+"CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o"
 
 # External object files for target KompGeom
 KompGeom_EXTERNAL_OBJECTS =
@@ -249,11 +249,11 @@ KompGeom: CMakeFiles/KompGeom.dir/src/cpp/common/BigDecimal.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/cpp/common/Geometry.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/qt/main.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/qt/MainWindow.cpp.o
-KompGeom: CMakeFiles/KompGeom.dir/src/qt/widgets/Task03Widget.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task07to09Widget.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task10Widget.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task11Widget.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task12Widget.cpp.o
+KompGeom: CMakeFiles/KompGeom.dir/src/qt/widgets/tasks7_12/Task13Widget.cpp.o
 KompGeom: CMakeFiles/KompGeom.dir/build.make
 KompGeom: /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets
 KompGeom: /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui
